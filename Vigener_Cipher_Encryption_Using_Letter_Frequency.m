@@ -1,13 +1,13 @@
 %Simulation of HW1, Cryptography Course , "Vigener Cipher Encryption Using Letter Frequency"
 %Vigener Cipher Encryption Using Letter Frequency
-%This Code is Written by Mostafa Amin-Naji  2017/02/18
+%All of This Code was Written by Mostafa Amin-Naji  2017/02/18
 % For contact me: Mostafa.Amin.Naji@gmail.com
 % My other Website:
 % 1) https://sites.google.com/site/mostafaaminnaji/
 % 2) https://scholar.google.com/citations?user=z1gxuKcAAAAJ&hl=en
 
  
-%All of This Code was Written by Mostafa Amin-Naji  2017/02/18
+%
  
 % For contact me: Mostafa.Amin.Naji@gmail.com
 clc
